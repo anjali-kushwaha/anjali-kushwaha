@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-kushwaha" /> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **Redux**
 
-- 💬 Ask me about **C,C++,HTML,CSS,JS**
+- 💬 Ask me about **C,C++,HTML,CSS,JS,React,sass,tailwind**
 
 - 📫 How to reach me **anjalikushwaha3012@gmail.com**
 
