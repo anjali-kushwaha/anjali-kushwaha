@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 👯 I’m looking to collaborate on Flutter or MERN stack projects.
+- 👯 I’m looking to collaborate on React projects.
 
 - 📫 How to reach me **anjalikushwaha3012@gmail.com**
 
