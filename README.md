@@ -1,13 +1,15 @@
 [![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2021/10/shutterstock_1918015178-scaled.jpg)](https://anjali-kushwaha.io)
 <h1 align="center">Hi 👋, I'm Anjali Kushwaha</h1>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-kushwaha" /> </p>
+# 💫 About Me:
+- 🌱 I’m currently learning **AZURE**
 
-- 🌱 I’m currently learning **Redux**
+- 💬 Ask me about **React**
 
-- 💬 Ask me about **C,C++,HTML,CSS,JS,React,sass,tailwind**
+-👯 I’m looking to collaborate on Flutter or MERN stack projects.
 
 - 📫 How to reach me **anjalikushwaha3012@gmail.com**
 
