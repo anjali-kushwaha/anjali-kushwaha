@@ -1,4 +1,3 @@
-[![MasterHead](https://www.springboard.com/blog/wp-content/uploads/2021/10/shutterstock_1918015178-scaled.jpg)](https://anjali-kushwaha.io)
 <h1 align="center">Hi 👋, I'm Anjali Kushwaha</h1>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 <h3 align="center">A passionate full stack developer from India</h3>
