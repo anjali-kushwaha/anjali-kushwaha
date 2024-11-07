@@ -3,8 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-kushwaha" /> </p>
-
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anjali-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-kushwaha" /> </p>
 
 <h2 align="left">💫 About Me:</h2>
 
