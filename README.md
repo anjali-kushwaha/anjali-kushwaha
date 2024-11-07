@@ -4,12 +4,14 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjali-kushwaha&label=Profile%20views&color=0e75b6&style=flat" alt="anjali-kushwaha" /> </p>
+
 # 💫 About Me:
+
 - 🌱 I’m currently learning **AZURE**
 
 - 💬 Ask me about **React**
 
--👯 I’m looking to collaborate on Flutter or MERN stack projects.
+- 👯 I’m looking to collaborate on Flutter or MERN stack projects.
 
 - 📫 How to reach me **anjalikushwaha3012@gmail.com**
 
